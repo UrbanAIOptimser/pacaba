@@ -1,2 +1,6 @@
 Dataset PaCaBa
 .DS_Store
+datasets
+runs
+yolov8n.pt
+.ipynb_checkpoints
