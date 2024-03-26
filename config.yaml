@@ -1,4 +1,4 @@
-path: /Users/johnomole/Desktop/pacaba/datasets # dataset root dir
+path: /Users/johnomole/Desktop/pacaba/datasets # dataset root dir--   Please change it to your root directory
 train: ParkingCarsDataset/yolo/train/
 val: ParkingCarsDataset/yolo/val
 test: ParkingCarsDataset/yolo/test

@@ -4,3 +4,4 @@ datasets
 runs
 yolov8n.pt
 .ipynb_checkpoints
+yolov8l.pt
